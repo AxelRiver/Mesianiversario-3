@@ -1,10 +1,11 @@
 {
-  "name": "Mi PWA",
-  "short_name": "PWA",
+  "name": "Felices 6 Meses de Novios ✨",
+  "short_name": "6Meses",
+  "description": "Una PWA para celebrar 6 meses de novios con Alani ✨",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#ff9a9e",
+  "theme_color": "#FF1493",
   "icons": [
     {
       "src": "icon-192x192.png",
